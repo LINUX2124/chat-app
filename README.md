@@ -1,2 +1,1 @@
-# chat-app
-Aplicación de chat en tiempo real
+"# chat-app" 
